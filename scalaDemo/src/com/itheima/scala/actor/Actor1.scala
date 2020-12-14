@@ -5,7 +5,7 @@ import scala.actors.Actor
   * date:2018/10/15 19:54 
   * description:1.00
   *
-  * 第一个例子
+  * 第一个例子111111111111111
   * 怎么实现actor并发编程：
   * 1、定义一个class或者是object继承Actor特质，注意导包import scala.actors.Actor
   * 2、重写对应的act方法
