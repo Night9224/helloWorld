@@ -1,7 +1,7 @@
 package com.itheima.scala.actor
 import scala.actors.Actor
 /**
-  * author:HJJ
+  * author:HJJ123
   * date:2018/10/15 19:54 
   * description:1.00
   *
