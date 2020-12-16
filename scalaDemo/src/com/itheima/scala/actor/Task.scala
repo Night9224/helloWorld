@@ -3,7 +3,7 @@ package com.itheima.scala.actor
 import scala.actors.Actor
 
 /**
-  * author:HJJ
+  * author:HJJ111111
   * date:2018/10/15 21:05 
   * description:1.00
   */
